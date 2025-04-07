@@ -17,7 +17,7 @@ The manual testing process covered multiple aspects of the Four H Group website,
 ### Test Case Writing  
 - Developed comprehensive **test cases** covering different website modules, including navigation, product information, and contact forms.
 
-![Test Case Writing](https://drive.google.com/uc?export=view&id=1cSdZgvqibZvxUAn3mz8G2tsuXZmFEmCe)
+![Test Cases](https://drive.google.com/uc?export=view&id=1MRmscLFV8SaodRsu307-VLJNYwi615OF)
 
 ### Test Plan Creation  
 - Structured **test plan** defining:  
@@ -34,23 +34,31 @@ The manual testing process covered multiple aspects of the Four H Group website,
   - Test strategy  
   - Feature coverage  
 
+![Test Case Writing](https://drive.google.com/uc?export=view&id=1cSdZgvqibZvxUAn3mz8G2tsuXZmFEmCe)
+
 ### Test Metrics  
 - Tracked and analyzed **test execution progress**, including:  
   - Test coverage  
   - Defect reporting and resolution rates  
+
+![Test Matrics](https://drive.google.com/uc?export=view&id=1hJwJ7qygHJBOslJJ9exV81ZNUVv0zocJ)
 
 ### Test Scenarios  
 - Defined multiple **test scenarios** to validate:  
   - Core functionalities  
   - Edge cases  
   - UI responsiveness  
-  - Negative test cases  
+  - Negative test cases
+ 
+![Test Scenarios](https://drive.google.com/uc?export=view&id=1G6desnknyasal60C2lyecszxZKo5p4rc)
 
 ### Bug Reports  
 - Logged and documented **defects** with details such as:  
   - Severity and priority levels  
   - Steps to reproduce  
-  - Screenshots and expected vs. actual results  
+  - Screenshots and expected vs. actual results
+
+![Bug Report](https://drive.google.com/uc?export=view&id=1h4i6_N2orTXTK9pugCIGaflRaYy3ppO0)
 
 ## Tools Used  
 - **Test Management:** Google Sheets / Excel  
